@@ -7,13 +7,13 @@ Hence, to solve this problem we are building an android application “self-help
 
 ## Screenshots of Andriod application
 
-![Splash screen](https://github.com/udapy/self-help/tree/master/img/img-0.png)
-![welcome screen](https://github.com/udapy/self-help/tree/master/img/img-1.png)
-![name screen](https://github.com/udapy/self-help/tree/master/img/img-2.png)
-![input-text screen](https://github.com/udapy/self-help/tree/master/img/img-3.png)
-![type-text screen](https://github.com/udapy/self-help/tree/master/img/img-4.png)
-![Analysis screen](https://github.com/udapy/self-help/tree/master/img/img-5.png)
-![Yoga screen](https://github.com/udapy/self-help/tree/master/img/img-6.png)
+![Splash screen](https://github.com/udapy/self-help/tree/master/img/img-0.png?raw=true "Title")
+![welcome screen](https://github.com/udapy/self-help/tree/master/img/img-1.png?raw=true "Title")
+![name screen](https://github.com/udapy/self-help/tree/master/img/img-2.png?raw=true "Title")
+![input-text screen](https://github.com/udapy/self-help/tree/master/img/img-3.png?raw=true "Title")
+![type-text screen](https://github.com/udapy/self-help/tree/master/img/img-4.png?raw=true "Title")
+![Analysis screen](https://github.com/udapy/self-help/tree/master/img/img-5.png?raw=true "Title")
+![Yoga screen](https://github.com/udapy/self-help/tree/master/img/img-6.png?raw=true "Title")
 
 ## Guideline to try application [If you don't have andriod device]
 ### Software requirements
