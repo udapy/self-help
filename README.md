@@ -11,7 +11,9 @@ Hence, to solve this problem we are building an android application “self-help
 1. Download Virtual-box from here https://www.virtualbox.org/wiki/Downloads.
 2. Download and installation guidelines for Genymotion: https://docs.genymotion.com/latest/Content/01_Get_Started/Installation.htm
 
-### Download self-help andriod application APK file from here 
-
 ### Genymotion setup for andriod application installation
 https://docs.genymotion.com/latest/Content/01_Get_Started/Basic_steps.htm
+
+
+### Download self-help andriod application APK file from here 
+[]
