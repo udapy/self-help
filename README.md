@@ -7,13 +7,13 @@ Hence, to solve this problem we are building an android application “self-help
 
 ## Screenshots of Andriod application
 
-![Splash screen](https://github.com/udapy/self-help/tree/master/img/img-0.png?raw=true "Title")
-![welcome screen](https://github.com/udapy/self-help/tree/master/img/img-1.png?raw=true "Title")
-![name screen](https://github.com/udapy/self-help/tree/master/img/img-2.png?raw=true "Title")
-![input-text screen](https://github.com/udapy/self-help/tree/master/img/img-3.png?raw=true "Title")
-![type-text screen](https://github.com/udapy/self-help/tree/master/img/img-4.png?raw=true "Title")
-![Analysis screen](https://github.com/udapy/self-help/tree/master/img/img-5.png?raw=true "Title")
-![Yoga screen](https://github.com/udapy/self-help/tree/master/img/img-6.png?raw=true "Title")
+![Splash screen](https://github.com/udapy/self-help/tree/master/img/img-0.png?raw=true "Splash Screen")
+![welcome screen](https://github.com/udapy/self-help/tree/master/img/img-1.png?raw=true "Welcome")
+![name screen](https://github.com/udapy/self-help/tree/master/img/img-2.png?raw=true "Name")
+![input-text screen](https://github.com/udapy/self-help/tree/master/img/img-3.png?raw=true "Input-text")
+![type-text screen](https://github.com/udapy/self-help/tree/master/img/img-4.png?raw=true "Typing-text")
+![Analysis screen](https://github.com/udapy/self-help/tree/master/img/img-5.png?raw=true "Show Analysis")
+![Yoga screen](https://github.com/udapy/self-help/tree/master/img/img-6.png?raw=true "Yoga")
 
 ## Guideline to try application [If you don't have andriod device]
 ### Software requirements
