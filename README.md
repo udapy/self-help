@@ -25,4 +25,6 @@ https://docs.genymotion.com/latest/Content/01_Get_Started/Basic_steps.htm
 
 
 ### Download self-help andriod application APK file from here 
-[https://selfhelp-app.github.io]
+[Download APK](https://selfhelp-app.github.io/apk/self-help.apk) 
+OR
+[Visit SELF-HELP Website](https://selfhelp-app.github.io)
