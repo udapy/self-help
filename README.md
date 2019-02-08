@@ -12,7 +12,7 @@ Hence, to solve this problem we are building an android application “self-help
 ![name screen](/img/img-2.png?raw=true "Name")
 ![input-text screen](/img/img-3.png?raw=true "Input-text")
 ![type-text screen](/img/img-4.png?raw=true "Typing-text")
-![Analysis screen](/img/img-5.png?raw=true "Show Analysis")
+![Analysis screen](/img/img-5.png?raw=true "Show Analysis") [under development]
 ![Yoga screen](/img/img-6.png?raw=true "Yoga")
 
 ## Guideline to try application [If you don't have andriod device]
