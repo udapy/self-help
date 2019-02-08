@@ -7,7 +7,7 @@ Hence, to solve this problem we are building an android application “self-help
 
 ## Screenshots of Andriod application
 
-<img src="./images/img-0.png" width="200" height="350"> <img src="./images/img-1.png" width="200" height="350"> <img src="./images/img-2.png" width="200" height="350"><img src="./images/img-3.png" width="200" height="350"> <img src="./images/img-4.png" width="200" height="350"><img src="./images/img-5.png" width="200" height="350"> <img src="./images/img-6.png" width="200" height="350">
+<img src="./img/img-0.png" width="200" height="350"> <img src="./img/img-1.png" width="200" height="350"> <img src="./img/img-2.png" width="200" height="350"><img src="./img/img-3.png" width="200" height="350"> <img src="./img/img-4.png" width="200" height="350"><img src="./img/img-5.png" width="200" height="350"> <img src="./img/img-6.png" width="200" height="350">
 
 
 ## Guideline to try application [If you don't have andriod device]
