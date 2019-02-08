@@ -10,7 +10,7 @@ Hence, to solve this problem we are building an android application “self-help
 OR
 [Visit SELF-HELP Website](https://selfhelp-app.github.io)
 
-## Screenshots of Andriod application
+## Screenshots of Android application
 
 <img src="./img/img-0.png" width="200" height="350"> <img src="./img/img-1.png" width="200" height="350"> <img src="./img/img-2.png" width="200" height="350"><img src="./img/img-3.png" width="200" height="350"> <img src="./img/img-4.png" width="200" height="350"><img src="./img/img-5.png" width="200" height="350"> <img src="./img/img-6.png" width="200" height="350">
 
