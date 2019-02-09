@@ -6,7 +6,7 @@ In 21st century, mental disorder is rising rapidly. According to a survey of Anx
 Hence, to solve this problem we are building an android application “self-help!” which could fill this gap and help them to lead a healthy and peaceful life.
 
 ### Download self-help andriod application APK file.
-[Download APK](https://selfhelp-app.github.io/apk/self-help.apk) 
+[Download APK](https://selfhelp-app.github.io/apk/selfhelp-alpha.apk) 
 OR
 [Visit SELF-HELP Website](https://selfhelp-app.github.io)
 
